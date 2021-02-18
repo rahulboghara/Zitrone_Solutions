@@ -1,1 +1,0 @@
-[02-Feb-2021 08:21:12 UTC] PHP Warning:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' (this will throw an Error in a future version of PHP) in /home/suijxh72wvsi/public_html/zitronesolutions.com/wp-content/themes/zitronesolutions/functions.php on line 73
